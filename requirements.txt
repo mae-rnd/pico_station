@@ -1,0 +1,12 @@
+greenlet==3.1.1
+mysqlclient==2.2.6
+numpy==2.2.0
+paho-mqtt==2.1.0
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+schedule==1.2.2
+six==1.17.0
+SQLAlchemy==2.0.36
+typing_extensions==4.12.2
+tzdata==2024.2
